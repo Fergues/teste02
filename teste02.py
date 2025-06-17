@@ -6,4 +6,6 @@ def mysum(num1: int, num2: int) -> str:
 
 print(mysum(10, 6))
 print(mysum(10, 7))
+print(mysum(100, 72))
+
 
